@@ -1,4 +1,4 @@
-package com.coupon.coupon_api.domain;
+package com.coupon.couponapi.domain;
 
 import jakarta.persistence.*;
 import lombok.Getter;

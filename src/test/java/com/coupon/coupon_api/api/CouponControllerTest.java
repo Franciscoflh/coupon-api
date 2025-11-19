@@ -1,8 +1,8 @@
 package com.coupon.coupon_api.api;
 
-import com.coupon.coupon_api.domain.Coupon;
-import com.coupon.coupon_api.domain.CouponRepository;
-import com.coupon.coupon_api.domain.CouponStatus;
+import com.coupon.couponapi.domain.Coupon;
+import com.coupon.couponapi.domain.CouponRepository;
+import com.coupon.couponapi.domain.CouponStatus;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,7 @@
-package com.coupon.coupon_api.api.handler;
+package com.coupon.couponapi.api.handler;
 
-import com.coupon.coupon_api.service.exception.BusinessException;
-import com.coupon.coupon_api.service.exception.CouponNotFoundException;
+import com.coupon.couponapi.service.exception.BusinessException;
+import com.coupon.couponapi.service.exception.CouponNotFoundException;
 import jakarta.validation.ConstraintViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

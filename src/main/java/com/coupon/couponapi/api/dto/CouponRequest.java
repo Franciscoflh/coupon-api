@@ -1,4 +1,4 @@
-package com.coupon.coupon_api.api.dto;
+package com.coupon.couponapi.api.dto;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;

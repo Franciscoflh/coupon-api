@@ -1,9 +1,9 @@
-package com.coupon.coupon_api.api;
+package com.coupon.couponapi.api;
 
-import com.coupon.coupon_api.api.dto.CouponRequest;
-import com.coupon.coupon_api.api.dto.CouponResponse;
-import com.coupon.coupon_api.domain.Coupon;
-import com.coupon.coupon_api.service.CouponService;
+import com.coupon.couponapi.api.dto.CouponRequest;
+import com.coupon.couponapi.api.dto.CouponResponse;
+import com.coupon.couponapi.domain.Coupon;
+import com.coupon.couponapi.service.CouponService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

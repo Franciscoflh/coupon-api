@@ -1,4 +1,4 @@
-package com.coupon.coupon_api.service.exception;
+package com.coupon.couponapi.service.exception;
 
 public class CouponNotFoundException extends RuntimeException {
     public CouponNotFoundException(String message) {

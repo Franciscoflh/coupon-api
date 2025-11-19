@@ -1,11 +1,11 @@
-package com.coupon.coupon_api.service;
+package com.coupon.couponapi.service;
 
-import com.coupon.coupon_api.api.dto.CouponRequest;
-import com.coupon.coupon_api.domain.Coupon;
-import com.coupon.coupon_api.domain.CouponRepository;
-import com.coupon.coupon_api.domain.CouponStatus;
-import com.coupon.coupon_api.service.exception.BusinessException;
-import com.coupon.coupon_api.service.exception.CouponNotFoundException;
+import com.coupon.couponapi.api.dto.CouponRequest;
+import com.coupon.couponapi.domain.Coupon;
+import com.coupon.couponapi.domain.CouponRepository;
+import com.coupon.couponapi.domain.CouponStatus;
+import com.coupon.couponapi.service.exception.BusinessException;
+import com.coupon.couponapi.service.exception.CouponNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

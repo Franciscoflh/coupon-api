@@ -1,7 +1,7 @@
-package com.coupon.coupon_api.api.dto;
+package com.coupon.couponapi.api.dto;
 
-import com.coupon.coupon_api.domain.Coupon;
-import com.coupon.coupon_api.domain.CouponStatus;
+import com.coupon.couponapi.domain.Coupon;
+import com.coupon.couponapi.domain.CouponStatus;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
